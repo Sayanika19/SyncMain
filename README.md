@@ -17,8 +17,8 @@ To overcome communication barriers for the deaf and mute community, we propose G
 Installation
 Clone the repo:
 
-git clone https://github.com/Sayanika19/gwlrapp.git
-cd gwlrapp
+git clone https://github.com/Sayanika19/SyncMain
+cd SyncMain
 
 
 Create a virtual environment:
